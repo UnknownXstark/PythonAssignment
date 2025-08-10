@@ -1,3 +1,8 @@
+#  Write a function that takes an integer and returns:
+#  -'Even and divisible by 3' if it's both even and divisible by 3,
+#  - 'Even' if only even,
+#  - 'Odd' if it's odd,- 'Zero' if it’
+
 def digitClassifier(num):
     if num == 0:
         return "Zero"
