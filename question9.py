@@ -1,0 +1,1 @@
+# Write a function that returns True if all elements in a list are unique, otherwise False.
