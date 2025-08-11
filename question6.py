@@ -5,4 +5,4 @@ def missingNumber(nums):
     expectedSum = n * (n + 1)//2
     actualSum = sum(nums)
     return expectedSum - actualSum
-print(missingNumber([13]))
+print(missingNumber([1,2,3,4,6]))

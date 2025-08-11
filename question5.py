@@ -11,3 +11,5 @@ def secondLargest(nums):
             return secondLargest if secondLargest != float('-inf') else None
 
 print(secondLargest([5,5,5,5]))
+
+print()
